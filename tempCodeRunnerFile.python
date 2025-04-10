@@ -1,0 +1,6 @@
+name = input("Please, enter your name?")
+times = int(input("How many times you want to print your name? "))
+x = 1
+while x<=times:
+    print(name)
+    x+=1
