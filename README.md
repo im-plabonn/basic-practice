@@ -13,4 +13,4 @@ This repository is a collection of my daily practice code for learning programmi
 - **C++**: Object-Oriented Programming, Classes, and Objects
 
 ### How to use?
-Clone the repo and run the respective files using your favorite code editor or IDE.
+Clone the repo and run the respective files using your favorite code editor or IDE..
