@@ -1,2 +1,5 @@
-import random
-print(random.randrange(1,6))
+x = int(input("Enter any number: "))
+if (x%2== 0):
+    print("This is even number")
+else:
+    print("This is even number")
